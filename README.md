@@ -5,9 +5,9 @@ Dieses Repository enthält manuell erstellte QA-Dokumentation, die im Rahmen mei
 ## Inhalt
 
 ### Testfälle
-- **Testfall_Beispiel_Thalia**  
+- **Thalia_Webseite_Testfälle**  
   16 manuelle Testfälle für die Webseite **thalia.de**, erstellt zur Überprüfung zentraler Funktionen.
-- **Testfall_Login**  
+- **Positivtestfall_Login_Q und Negativtestfall_Login_Q**  
   Manuelle Testfälle für die Login-Funktion, basierend auf definierten Anforderungen.
 
 > Die Testfälle sind im Tabellenformat (Spreadsheet) erstellt, um Übersichtlichkeit und Nachvollziehbarkeit zu gewährleisten.
